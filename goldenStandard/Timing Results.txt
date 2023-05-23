@@ -1,0 +1,12 @@
+Python Test Results:
+--------------------
+Loading image into buffer: 0.119278 s
+Median Filtering: 0.885655 s
+Edge detection via Sobel operator: 2.577589 s
+
+------------------
+FPGA Test Results:
+------------------
+Loading image into buffer: 31.26 us
+Median Filtering: 31.27 us
+Edge detection via Sobel operator: 35.28 us

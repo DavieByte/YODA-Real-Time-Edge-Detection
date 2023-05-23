@@ -1,0 +1,12 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/client/Desktop/YODA/YODA/YODA.gen/sources_1/ip/outputBuffer/sim/outputBuffer.v,1684584359,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/ImageProcessTop.v,,outputBuffer,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sim_1/new/tb.v,1684631020,verilog,,,,tb,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/ImageProcessTop.v,1684623398,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/imageControl.v,,ImageProcessTop,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/imageControl.v,1684623632,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/lineBuffer.v,,imageControl,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/lineBuffer.v,1684622571,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/medianFilter.v,,lineBuffer,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/medianFilter.v,1684630122,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/sobel.v,,medianFilter,,,,,,,,
+C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sources_1/new/sobel.v,1684454694,verilog,,C:/Users/client/Desktop/YODA/YODA/YODA.srcs/sim_1/new/tb.v,,sobel,,,,,,,,

@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../YODA.gen/sources_1/ip/outputBuffer/sim/outputBuffer.v" \
+"../../../../YODA.srcs/sources_1/new/ImageProcessTop.v" \
+"../../../../YODA.srcs/sources_1/new/imageControl.v" \
+"../../../../YODA.srcs/sources_1/new/lineBuffer.v" \
+"../../../../YODA.srcs/sources_1/new/medianFilter.v" \
+"../../../../YODA.srcs/sources_1/new/sobel.v" \
+"../../../../YODA.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
